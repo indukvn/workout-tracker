@@ -38,7 +38,7 @@ present_time = today.strftime("%H:%M:%S")
 
 # sheety_end_pt from sheety
 # create a new project and upload existing or new sheet to get the end point
-sheety_end_pt = "https://api.sheety.co/cbeddf3c541c8aa03f81aab1327db5e9/workoutTracker/workouts"
+sheety_end_pt = "your end point"
 
 
 for exercise in res["exercises"]:
